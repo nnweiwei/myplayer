@@ -1,0 +1,80 @@
+[
+    
+    [
+        {
+            "title": "Springtime",
+            "artist": "Engelwood",
+            "album": "Boardwalk Bumps",
+            "videoId": "XUPoYnbVwNM",
+            "coverImg": "images/boardwalk_bumps.jpg",
+            "duration": "125",
+            "playing": false  
+        },
+        {
+            "title": "As the Sun Goes Down",
+            "artist": "Engelwood",
+            "album": "Boardwalk Bumps",
+            "videoId": "W8NOum-kh-I",
+            "coverImg": "images/boardwalk_bumps.jpg",
+            "duration": "148",
+            "playing": false  
+        },
+        {
+            "title": "Give Me A Chance",
+            "artist": "Engelwood",
+            "album": "Boardwalk Bumps",
+            "videoId": "glK5DW9070w",
+            "coverImg": "images/boardwalk_bumps.jpg",
+            "duration": "173",
+            "playing": false  
+        },
+        {
+            "title": "La Fonda",
+            "artist": "Engelwood",
+            "album": "Boardwalk Bumps",
+            "videoId": "3CGnT7NbCmw",
+            "coverImg": "images/boardwalk_bumps.jpg",
+            "duration": "144",
+            "playing": false  
+        }
+    ],
+
+    [
+        {
+            "title": "Feel The Magic",
+            "artist": "Engelwood",
+            "album": "Yacht World",
+            "videoId": "Asrpl5iV17w",
+            "coverImg": "images/yacht_world.jpg",
+            "duration": "146",
+            "playing": false
+        },
+        {
+            "title": "Need Somebody",
+            "artist": "Engelwood",
+            "album": "Yacht World",
+            "videoId": "t6r9B_WziAY",
+            "coverImg": "images/yacht_world.jpg",
+            "duration": "129",
+            "playing": false
+        },
+        {
+            "title": "Congo Bongo",
+            "artist": "Engelwood",
+            "album": "Yacht World",
+            "videoId": "Rx2iByV-08Q",
+            "coverImg": "images/yacht_world.jpg",
+            "duration": "108",
+            "playing": false
+        },
+        {
+            "title": "Dance Dance",
+            "artist": "Engelwood",
+            "album": "Yacht World",
+            "videoId": "zckUT2o-jcA",
+            "coverImg": "images/yacht_world.jpg",
+            "duration": "142",
+            "playing": false
+        }
+    ]
+]
